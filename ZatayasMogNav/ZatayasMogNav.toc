@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Zataya's Mog Nav
+## Notes: Helps navigate mog pages and automate using saved sets.
+## Version: 1.0.3
+## SavedVariables: Zmn_Config
+
+
+ZatayasMogNav.lua
